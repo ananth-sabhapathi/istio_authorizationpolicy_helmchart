@@ -1,0 +1,10 @@
+namespaces:
+##begins gbd namespaces##
+  - NAMESPACE 1
+  - NAMESPACE 2
+  - NAMESPACE 3
+  
+ipBlocks:
+  - IP-BLOCK-1/22
+  - IP-BLOCK-2/22
+  - IP-BLOCK-3/22
