@@ -1,0 +1,6 @@
+apiVersion: v2
+name: vpc-authorization-policy
+description: A Helm chart for Kubernetes to create authorization policy
+type: application
+version: 0.1.0
+appVersion: "v1.0.1"
