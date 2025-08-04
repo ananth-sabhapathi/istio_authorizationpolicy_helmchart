@@ -1,0 +1,1 @@
+# istio_authorizationpolicy_helmchart
